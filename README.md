@@ -1,6 +1,8 @@
 ## Hi, I'm Sabrina Liu 👋
 
-<p>I have a background in <code>🌏geographic information science</code>, <code>💻AI</code>, and <code>🕸️WebGIS</code>, with over four years of experience in spatial data, big data processing, NLP model development, and WebGIS development as a B.Sc. and M.Sc. student.</p> 
+:raised_hands: I have a background in <code>🌏geographic information science</code>, <code>💻AI</code>, and <code>🕸️WebGIS</code>, with over four years of experience in spatial data, big data processing, NLP model development, and WebGIS development as a B.Sc. and M.Sc. student in the past.
+
+:bulb: Current learning: `Vue.js`，`Cloud`, and `more LLM tools`.
 
 ### Skills & Technologies
 <table align="center">
@@ -31,6 +33,7 @@
       <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     </td>
   </tr>
   <tr>
